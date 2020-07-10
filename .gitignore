@@ -140,3 +140,13 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.DS_Store
+.idea/.gitignore
+.idea/courseManagementPlatform.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+app.py
+static/
+templates/
